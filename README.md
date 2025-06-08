@@ -1,4 +1,5 @@
 "# Skip Selector Redesign" 
+
 This project is a redesigned version of a skip selection page using **React**, based on the provided test instructions
 
 The goal was to:
